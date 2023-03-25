@@ -5,7 +5,7 @@ tree.setup({
     view = {
         width = 50,
         float = {
-            enable = true,
+            enable = false,
             open_win_config = {
                 row = 0,
                 col = 0,
