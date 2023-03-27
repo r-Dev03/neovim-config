@@ -1,6 +1,7 @@
 local tree = require('nvim-tree')
 local tree_api = require('nvim-tree.api')
 
+--Basic tree setup--
 tree.setup({
     view = {
         width = 50,
